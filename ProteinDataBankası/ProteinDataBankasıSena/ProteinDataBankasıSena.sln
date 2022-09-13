@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinDataBankasıSena", "ProteinDataBankasıSena\ProteinDataBankasıSena.csproj", "{EA2F14AC-32E9-45ED-B8B5-3D96170CE0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2F14AC-32E9-45ED-B8B5-3D96170CE0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2F14AC-32E9-45ED-B8B5-3D96170CE0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2F14AC-32E9-45ED-B8B5-3D96170CE0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2F14AC-32E9-45ED-B8B5-3D96170CE0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11F6E3C-3946-4013-9BC6-268EAA64FE86}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\bin\Debug\ProteinDataBankasıSena.exe.config
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\bin\Debug\ProteinDataBankasıSena.exe
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\bin\Debug\ProteinDataBankasıSena.pdb
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.Form1.resources
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.Properties.Resources.resources
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.exe
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.pdb
+C:\Users\Asus\source\repos\ProteinDataBankasıSena\ProteinDataBankasıSena\obj\Debug\ProteinDataBankasıSena.Form2.resources

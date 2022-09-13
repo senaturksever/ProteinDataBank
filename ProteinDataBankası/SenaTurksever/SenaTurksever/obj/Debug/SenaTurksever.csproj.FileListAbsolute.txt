@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\bin\Debug\SenaTurksever.exe.config
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\bin\Debug\SenaTurksever.exe
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\bin\Debug\SenaTurksever.pdb
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.Form1.resources
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.Properties.Resources.resources
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.exe
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.pdb
+C:\Users\Asus\source\repos\SenaTurksever\SenaTurksever\obj\Debug\SenaTurksever.Form2.resources
